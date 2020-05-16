@@ -1,0 +1,3 @@
+Hello, this is quick text file
+this is the second line of the file
+New Line Created in the file
